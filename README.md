@@ -2,10 +2,11 @@
 
 ## Here are some ideas to get you started:
 * 🌐 Learning web development
-* ⁉️ Founder of [LaVenganzaRP](https://lavenganzarp.com) (inactive)
+* ⁉️ Founder of [**LaVenganzaRP**](https://lavenganzarp.com) (inactive)
 * 🛰️ Work on XAP
-+ 🇪🇸 Spain / Españita
-* 📩 How to reach me: [morcxlla@gmail.com](mailto:morcxlla@gmail.com)
++ 🇪🇸 Spain
++ 💬 I speak: Spanish & a little English
+* 📩 How to reach me: [**morcxlla@gmail.com**](mailto:morcxlla@gmail.com)
 
  ## Social media
  * [Twitter](https://twitter.com/_Morcilla__)
